@@ -1,7 +1,7 @@
 'use strict';
 const app = require('./app');
 // Constants configuration
-const PORT = 80;
+const PORT = 3000;
 const HOST = '0.0.0.0';
 
 app.listen(PORT);
