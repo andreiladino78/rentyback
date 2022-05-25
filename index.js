@@ -4,5 +4,5 @@ const app = require('./app');
 const PORT = 3000;
 const HOST = '0.0.0.0';
 
-app.listen(PORT);
+app.listen(process.env.PORT || PORT);
 console.log(`Running on http://${HOST}:${PORT}`);
