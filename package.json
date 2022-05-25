@@ -1,0 +1,17 @@
+{
+  "name": "andrei",
+  "version": "0.0.1",
+  "description": "API encargado de administracion de datos para aplicacion de arriendos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "christian.narvaez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "node-dto": "^1.1.0",
+    "pg": "^8.7.3"
+  }
+}
