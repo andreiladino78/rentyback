@@ -4,6 +4,7 @@
   "description": "API encargado de administracion de datos para aplicacion de arriendos.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "author": "christian.narvaez",
